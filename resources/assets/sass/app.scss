@@ -67,6 +67,17 @@ html, body {
     font-family: 'Lobster', cursive;
 }
 
+#alerts-wrapper {
+    padding: 3px;
+    background-color: black;
+}
+
+#alerts {
+    font-size: 20px;
+    padding: 0;
+    margin: 0;
+}
+
 @media (max-width: 760px) {
 	.title {
 		font-size: 50px;
