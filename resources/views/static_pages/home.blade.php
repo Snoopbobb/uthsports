@@ -14,7 +14,9 @@
                 <div class="title m-b-md">
                     <span class="utryout">U</span>thsports.com
                 </div>
-
+                <div>
+                    Formerly known as <span class="utryout">U</span>ryout.com
+                </div>
                 <div>
                     <p>The <span class="utryout">U</span>ltimate site for youth sports in your area!</p>
                     <h2>COMING SOON</h2>
